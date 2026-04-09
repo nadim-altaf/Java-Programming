@@ -1,4 +1,4 @@
-import java.util.Scanner;
+gitimport java.util.Scanner;
 
 public class UpdateedSwitch {
   public static void main(String[] args) {
